@@ -1,8 +1,7 @@
 package Practice;
 
-public class packagesInJava {
+public class MAin {
 	public static void main(String[] args) {
-		System.out.println("hii");
-
+		System.out.println("main class");
 	}
 }
